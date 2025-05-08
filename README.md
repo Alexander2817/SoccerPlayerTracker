@@ -41,4 +41,11 @@ Follow the prompts to enter your name, email, and role (coach / analyst / fan).
    - Log a performance for a player
    - Generate rankings (you’ll be prompted for a ranking type)
 
+## About "tracker.dat"
+
+- This file stores player and performance data.
+- It will automatically be updated when you add/remove players or log performances.
+- It will save once you close the program(entering 0)
+- To not start with any data, you can delete `tracker.dat` and run the app again.
+
 
