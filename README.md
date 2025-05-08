@@ -49,6 +49,7 @@ Follow the prompts to enter your name, email, and role (coach / analyst / fan).
 
 ## About "tracker.dat"
 
+- This file comes preloaded with data for four players, each with statistics from four matches.
 - This file stores player and performance data.
 - It will automatically be updated when you add/remove players or log performances.
 - It will save once you close the program(by entering 0)
