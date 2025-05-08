@@ -33,7 +33,7 @@ Follow the prompts to enter your name, email, and role (coach / analyst / fan).
 ## Testing
 
 1. Launch the app using `java Main`.
-2. Enter test credentials (e.g., name: Test Coach, email: test@example.com).
+2. Enter your credentials (name, email, role).
 3. Choose your role (Recommend you use `coach` for full access).
 4. From the menu:
    - View stats of the preloaded player
