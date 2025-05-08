@@ -11,7 +11,12 @@ to track soccer players and their match performances.
 - Logging match statistics
 - Viewing player Statistics
 - Generating performance rankings based on:
-   - goals, assists, minutes played, matches played, yellow cards, and redcards.
+   - goals
+   - assists
+   - minutes played
+   - matches played
+   - yellow cards
+   - red cards
 
 
 ## Compilation
