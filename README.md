@@ -21,14 +21,14 @@ to track soccer players and their match performances.
 
 ## Compilation
 
-To compile, open a terminal in the project folder and run:
+To compile the program, open a terminal in the project folder and run:
 
 ```bash
 javac *.java
 ```
 ## Running
 
-After compiling, you will run the program with:
+After compiling, start the program using:
 
 ```bash
 java Main
@@ -51,7 +51,7 @@ Follow the prompts to enter your name, email, and role (coach / analyst / fan).
 
 - This file stores player and performance data.
 - It will automatically be updated when you add/remove players or log performances.
-- It will save once you close the program(entering 0)
+- It will save once you close the program(by entering 0)
 - To not start with any data, you can delete `tracker.dat` and run the app again.
 
 
