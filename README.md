@@ -15,14 +15,30 @@ to track soccer players and their match performances.
 
 ## Compilation
 
-Compile the program using :
+To compile, open a terminal in the project folder and run:
 
 ```bash
 javac *.java
 ```
+## Running
 
-To run the program you will just need to use:
+After compiling, you will run the program with:
 
 ```bash
 java Main
 ```
+
+Follow the prompts to enter your name, email, and role (coach / analyst / fan).
+
+## Testing
+
+1. Launch the app using `java Main`.
+2. Enter test credentials (e.g., name: Test Coach, email: test@example.com).
+3. Choose your role (Recommend you use `coach` for full access).
+4. From the menu:
+   - View stats of the preloaded player
+   - Add a new player to test data entry
+   - Log a performance for a player
+   - Generate rankings (you’ll be prompted for a ranking type)
+
+
