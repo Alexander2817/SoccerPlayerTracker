@@ -53,6 +53,6 @@ Follow the prompts to enter your name, email, and role (coach / analyst / fan).
 - This file stores player and performance data.
 - It will automatically be updated when you add/remove players or log performances.
 - It will save once you close the program(by entering 0)
-- To not start with any data, you can delete `tracker.dat` and run the app again.
+- To not start with any data, you can delete `tracker.dat` and run the program again.
 
 
