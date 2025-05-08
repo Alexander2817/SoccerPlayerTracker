@@ -9,8 +9,8 @@ to track soccer players and their match performances.
 
 - Adding and removing players
 - Logging match statistics
-- Viewing player summaries
-- Generating performance rankings (goals, assists, minutes, cards)
+- Viewing player Statistics
+- Generating performance rankings (goals, assists, minutes, yellow Cards, red cards, matches played)
 
 
 ## Compilation
