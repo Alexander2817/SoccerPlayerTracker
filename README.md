@@ -12,3 +12,9 @@ Compile the program using :
 ```bash
 javac *.java
 ```
+
+To run the program you will just need to use:
+
+```bash
+java Main
+```
